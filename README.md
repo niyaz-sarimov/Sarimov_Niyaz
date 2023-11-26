@@ -1,10 +1,7 @@
-# Саримов Нияз
+![increase-sales-or-investment-profit-growth-or-improvement-financial-interest-rate-or-crypto-and-stock-market-return-concept-businessman-pulling-performance-graph-rising-up-with-full-effort-vector](https://github.com/niyaz-sarimov/niyaz-sarimov/assets/116895167/1684ca27-c8e7-44eb-8d03-653838e84c7b)
 
+# Саримов Нияз
 ## ⚡ Skills:
 - Python
 - SQL
 
-![8535fc0989cce942aae40aac7f6ba453](https://github.com/niyaz-sarimov/niyaz-sarimov/assets/116895167/697f79df-5f70-4cc3-a759-ff617ffcd958)
-<p align="center">
- <img width="600" src="assets/116895167/697f79df-5f70-4cc3-a759-ff617ffcd958"/>
-</p>
