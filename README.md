@@ -1,1 +1,5 @@
-# Sarimov_Niyaz
+### Саримов Нияз
+
+## ⚡ Skills:
+- Python
+- SQL
