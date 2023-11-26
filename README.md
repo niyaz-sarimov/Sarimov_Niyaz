@@ -6,9 +6,11 @@
 SQL:
 - PostgreSQL
 - ClickHouse
+
 Python:
  - Pandas
  - Numpay
  - Matplotlib
  - Seaborne
+
 Tableau
