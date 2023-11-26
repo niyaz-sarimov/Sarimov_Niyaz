@@ -3,12 +3,12 @@
 ### :man_technologist: Обо мне:
 Я начинающий аналитик данных, познакомился с анализом данных в процессе работы на производстве и понял, что мне интересно это направление и дальнейшее развитие в этой сфере.
 ## ⚡ Инструменты:
-- SQL:
-    PostgreSQL
-    ClickHouse
-- Python:
-  Pandas
-  Numpay
-  MatPlotlib
-  Seaborne
-- Tableau
+SQL:
+- PostgreSQL
+- ClickHouse
+Python:
+ - Pandas
+ - Numpay
+ - Matplotlib
+ - Seaborne
+Tableau
