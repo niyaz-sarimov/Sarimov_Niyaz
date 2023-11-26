@@ -4,11 +4,11 @@
 Я начинающий аналитик данных, познакомился с анализом данных в процессе работы на производстве и понял, что мне интересно это направление и дальнейшее развитие в этой сфере.
 ## ⚡ Инструменты:
 - SQL:
-  1. PostgreSQL
-  2. ClickHouse
+  PostgreSQL
+  ClickHouse
 - Python:
-  1. Pandas
-  2. Numpay
-  3. MatPlotlib
-  4. Seaborne
+  Pandas
+  Numpay
+  MatPlotlib
+  Seaborne
 - Tableau
