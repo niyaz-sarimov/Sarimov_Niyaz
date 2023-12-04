@@ -9,9 +9,9 @@ SQL:
 
 Python:
  - Pandas
- - Numpay
+ - Numpy
  - Matplotlib
- - Seaborne
+ - Seaborn
 
 Tableau
 
